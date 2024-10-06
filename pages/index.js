@@ -61,7 +61,7 @@ export default function Home() {
             <Link href="/" className="text-white px-4 py-2 rounded-xl hover:underline hover:bg-slate-500 hover:text-green-500">
               Home
             </Link>
-            <Link href="https://ashutosh-0506.github.io/AshutoshPortfolio/" target="_blank" className="text-white px-4 py-2 rounded-xl hover:underline hover:bg-slate-500  hover:text-yellow-500">
+            <Link href="https://github.com/prajna321" target="_blank" className="text-white px-4 py-2 rounded-xl hover:underline hover:bg-slate-500  hover:text-yellow-500">
               Creator
             </Link>
           
